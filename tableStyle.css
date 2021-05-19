@@ -1,0 +1,27 @@
+table {
+   background-color:  #F0FFFF;
+}
+  h1 {
+	color : black ;
+	}
+	
+ th{
+  text-align : left;
+  padding: 15px;
+  background-color: #B8860B ;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #ddd;
+}
+
+
+td{
+ text-align : left;
+ padding: 15px;
+ font-family: Arial, Helvetica, sans-serif;
+ border-bottom: 1px solid #ddd;
+}
+
+td:nth-child(even) {
+  background-color: #f2f2f2;
+}
